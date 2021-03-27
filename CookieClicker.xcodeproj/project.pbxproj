@@ -15,6 +15,7 @@
 		1DFD6946260FCE3F007BC6D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DFD6944260FCE3F007BC6D5 /* LaunchScreen.storyboard */; };
 		1DFD6951260FCE3F007BC6D5 /* CookieClickerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DFD6950260FCE3F007BC6D5 /* CookieClickerTests.swift */; };
 		1DFD695C260FCE3F007BC6D5 /* CookieClickerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DFD695B260FCE3F007BC6D5 /* CookieClickerUITests.swift */; };
+		1DFD696D260FD49E007BC6D5 /* CookieStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DFD696C260FD49E007BC6D5 /* CookieStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1DFD6957260FCE3F007BC6D5 /* CookieClickerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CookieClickerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DFD695B260FCE3F007BC6D5 /* CookieClickerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookieClickerUITests.swift; sourceTree = "<group>"; };
 		1DFD695D260FCE3F007BC6D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DFD696C260FD49E007BC6D5 /* CookieStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookieStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				1DFD6942260FCE3F007BC6D5 /* Assets.xcassets */,
 				1DFD6944260FCE3F007BC6D5 /* LaunchScreen.storyboard */,
 				1DFD6947260FCE3F007BC6D5 /* Info.plist */,
+				1DFD696C260FD49E007BC6D5 /* CookieStore.swift */,
 			);
 			path = CookieClicker;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				1DFD693E260FCE3D007BC6D5 /* ViewController.swift in Sources */,
 				1DFD693A260FCE3D007BC6D5 /* AppDelegate.swift in Sources */,
 				1DFD693C260FCE3D007BC6D5 /* SceneDelegate.swift in Sources */,
+				1DFD696D260FD49E007BC6D5 /* CookieStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
